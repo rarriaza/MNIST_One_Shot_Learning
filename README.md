@@ -17,4 +17,4 @@ Two architectures are trained. One of them is the Embedding network which aims t
 which receives the vector and it associate it to one class. More details about these architectures can be found in Networks.py.
 
 After training, the script evaluates the trained model inmediately by calling test.py.
-This model reached 66% of accuracy in the test data. 
+This model reached 66% of accuracy on the test data. 
