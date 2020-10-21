@@ -16,4 +16,5 @@ python run_all.py --parameter new_value
 Two architectures are trained. One of them is the Embedding network which aims to find a vector-representation of each class, the other is the classifier
 which receives the vector and it associate it to one class. More details about these architectures can be found in Networks.py.
 
+After training, the script evaluates the trained model inmediately by calling test.py.
 This model reached 66% of accuracy in the test data. 
