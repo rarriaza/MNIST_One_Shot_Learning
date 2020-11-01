@@ -1,4 +1,4 @@
-# MNIST_One_Shot_Learning
+# MNIST One Shot Learning
 Implementation of one shot learning with siamese architecture to classify MNIST when 1 sample per class is available.
 
 To run the full code:
